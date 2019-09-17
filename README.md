@@ -13,5 +13,5 @@ Table of Contents
  ----------------
  You can use this repository as a source of information as an inspration for your awesome programs.
  ```sh
- git clone
+ git clone https://github.com/comsci-uwc-isak/process-journal-UzayPoyraz.git
  ```
