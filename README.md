@@ -15,3 +15,11 @@ Table of Contents
  ```sh
  git clone https://github.com/comsci-uwc-isak/process-journal-UzayPoyraz.git
  ```
+ 
+ Organisation
+ =============
+ This repository is organised by **folders** corresponding to each topic in the syllabus
+ 
+ License
+ =========
+ This repository is licened under MIT version 2.0
